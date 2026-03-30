@@ -1,0 +1,69 @@
+# Compiled files
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.pdb
+*.ilk
+*.idb
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# CodeBlocks files
+*.cbp
+*.depend
+*.layout
+
+# Qt Creator files
+*.user
+*.creator
+*.files
+*.includes
+*.config
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Data files (optional - remove if you want to track client data)
+# Clients.txt
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Compiled Python files (if any)
+*.pyc
+
+# IDE files
+.idea/
+*.swp
+*.swo
+*~
